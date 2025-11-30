@@ -9,11 +9,12 @@
 
 ## How it should work
 - Visitors browse static pages with images, descriptions, and references.
-- “Teklif Al” page presents a static form UI (no submission backend).
+- “Teklif Al” page presents a static form UI (no submission backend, no client handlers).
 
 ## Experience goals
 - Premium, elegant design aligned with marble aesthetics.
 - Mobile-first responsiveness and fast load.
 - Clear navigation across Anasayfa, Hakkımızda, Hizmetler, Referanslar, İletişim, Teklif Al.
+- Turkish-first content; dark mode support via toggle.
 
 
