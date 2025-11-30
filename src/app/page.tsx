@@ -14,14 +14,15 @@ export default function HomePage() {
               Doğal Taşın Sanatı
             </h1>
             <p className="text-white/90 text-base md:text-lg">
-              Dünyanın en seçkin mermer koleksiyonuyla zamansız zarafet ve benzersiz kaliteyi keşfedin.
+              Dünyanın en seçkin mermer koleksiyonuyla zamansız zarafet ve
+              benzersiz kaliteyi keşfedin.
             </p>
           </div>
           <a
             href="/hizmetler"
-            className="flex min-w-[84px] items-center justify-center rounded-md h-12 px-6 bg-[#c0a172] text-white text-base font-bold tracking-wide hover:opacity-90 transition-opacity"
+            className="flex min-w-[84px] items-center justify-center rounded-md h-12 px-6 bg-primary text-white text-base font-bold tracking-wide hover:opacity-90 transition-opacity"
           >
-            Koleksiyonumuzu Keşfedin
+            Hizmetlerimizi Keşfedin
           </a>
         </div>
       </section>
@@ -34,9 +35,10 @@ export default function HomePage() {
                 Taşta Bir Miras
               </h2>
               <p className="text-text-muted-light dark:text-text-muted-dark text-base leading-relaxed">
-                Onlarca yıllık deneyimimizle, en güzel doğal taşları temin etmeye ve işlemeye adadık.
-                Kalite ve işçilik anlayışımız, her plakada hayat bulur; mekânlara zarafeti ve nesiller
-                boyu sürecek dayanıklılığı taşır.
+                1984’te Pendik’te kurulan Bekmer Mermer ve Granit, 1997’de
+                kurumsallaşmış; İstanbul ve diğer şehirlerde yüzlerce projede
+                birinci sınıf malzeme ve işçilikle fark yaratmıştır. %100
+                memnuniyet odağıyla hizmet vermeye devam ediyoruz.
               </p>
             </div>
             <div
@@ -61,26 +63,26 @@ export default function HomePage() {
             {[
               {
                 name: "Calacatta Gold",
-                url: "https://lh3.googleusercontent.com/aida-public/AB6AXuCb8IJCQ_au8j481ZjTJ38N07K4gksD1c_ndAf-cudRiGYyoqDp2pb470GV1q1RqXVuFjX88J_n6tqwF9fu8VTwEcMz-AKbnjqFL4fxtl9j9C0QbMqvz3SILyrkT8_gVT92bdDlFlshKRXFNm3H74tG1EF7KjGUn2v1W5mk3ZtqSCd3Vx4JJFivzQI1IyLSnkKBzuZhIVovUPrjNNk3yj2MV95pQv3DTSisUIRl4vWskO4XBSfdSNj9Pl0_feg29ElA8CQM-0M1Lyy-"
+                url: "https://lh3.googleusercontent.com/aida-public/AB6AXuCb8IJCQ_au8j481ZjTJ38N07K4gksD1c_ndAf-cudRiGYyoqDp2pb470GV1q1RqXVuFjX88J_n6tqwF9fu8VTwEcMz-AKbnjqFL4fxtl9j9C0QbMqvz3SILyrkT8_gVT92bdDlFlshKRXFNm3H74tG1EF7KjGUn2v1W5mk3ZtqSCd3Vx4JJFivzQI1IyLSnkKBzuZhIVovUPrjNNk3yj2MV95pQv3DTSisUIRl4vWskO4XBSfdSNj9Pl0_feg29ElA8CQM-0M1Lyy-",
               },
               {
                 name: "Carrara White",
-                url: "https://lh3.googleusercontent.com/aida-public/AB6AXuAsLv9iHng1QL_2y5zDwID3fkZbXU-9xhokuTlPEy5sOoo2pIrR8x6RXB6fFS5D0vLl8PrmhPZ9otzHhQcIOke-lYwrKqcm5m9iQExhFP2ZKT3ZqqhBDMUakbRdJAc5WeC-RphFajHuknzOFGRFNnvMZnCSGerzitC5afidurv3C2-Xs8EdUFlVrKqE7mxtxmvW9p8p-Xcb5WxszN8kmKQJMe5eLKQM6MIGmqwlVc1nRDhcDs6SWO0KT6P-bIkqO9_JVlksJzNNhnB4"
+                url: "https://lh3.googleusercontent.com/aida-public/AB6AXuAsLv9iHng1QL_2y5zDwID3fkZbXU-9xhokuTlPEy5sOoo2pIrR8x6RXB6fFS5D0vLl8PrmhPZ9otzHhQcIOke-lYwrKqcm5m9iQExhFP2ZKT3ZqqhBDMUakbRdJAc5WeC-RphFajHuknzOFGRFNnvMZnCSGerzitC5afidurv3C2-Xs8EdUFlVrKqE7mxtxmvW9p8p-Xcb5WxszN8kmKQJMe5eLKQM6MIGmqwlVc1nRDhcDs6SWO0KT6P-bIkqO9_JVlksJzNNhnB4",
               },
               {
                 name: "Nero Marquina",
-                url: "https://lh3.googleusercontent.com/aida-public/AB6AXuC_yDJBQAnv6cPf6pX5ip3jLEO3b_xXpWxAB4Co__4b_YPd_LIuETn1LVDM9yt9ztTzqxFGKqViY97U8NDU9oBlpajC5XR3olPZKf564bKIwn9ayMuPk5uxCEyoiKZUkdjZV01WJTItX8Gu3pkhabmd-IuzW01QLv2ZP-M1Bp4ueVk_gCGO0mJWCLZQSsJUI53KaXV5ejAYf443QBONw5eDh9TDystLrk7iyUAgoOvlhtXh_w9HoI3iiuWBRWxR_AaSWYoJhgYoFeRu"
+                url: "https://lh3.googleusercontent.com/aida-public/AB6AXuC_yDJBQAnv6cPf6pX5ip3jLEO3b_xXpWxAB4Co__4b_YPd_LIuETn1LVDM9yt9ztTzqxFGKqViY97U8NDU9oBlpajC5XR3olPZKf564bKIwn9ayMuPk5uxCEyoiKZUkdjZV01WJTItX8Gu3pkhabmd-IuzW01QLv2ZP-M1Bp4ueVk_gCGO0mJWCLZQSsJUI53KaXV5ejAYf443QBONw5eDh9TDystLrk7iyUAgoOvlhtXh_w9HoI3iiuWBRWxR_AaSWYoJhgYoFeRu",
               },
               {
                 name: "Emperador Dark",
-                url: "https://lh3.googleusercontent.com/aida-public/AB6AXuA4Agble5PS4xWaKe0xNUo6uaXZREzvnLY9ZdtI5ivZbY15m_BYELgzs4Y_Tni7F-IRs2XHRcO0haZOqZuGxukg6IdN1L-iVlOv4_ANezMKO9otTZHvJV8iDkRuAHM7ylrH9AB85E6_yL13A4cjSf3PYXZ3E-zCaywSCRa6xeM6IM5l6DW742Yg-AzLgENcw0td3j_QblrXYz9mnT_uv9uw5-iUzbSJozu6BzRE4SXSIKWEhYXemjK2CMDqHVtyuZEpyvmZmQ7w1ptn"
-              }
+                url: "https://lh3.googleusercontent.com/aida-public/AB6AXuA4Agble5PS4xWaKe0xNUo6uaXZREzvnLY9ZdtI5ivZbY15m_BYELgzs4Y_Tni7F-IRs2XHRcO0haZOqZuGxukg6IdN1L-iVlOv4_ANezMKO9otTZHvJV8iDkRuAHM7ylrH9AB85E6_yL13A4cjSf3PYXZ3E-zCaywSCRa6xeM6IM5l6DW742Yg-AzLgENcw0td3j_QblrXYz9mnT_uv9uw5-iUzbSJozu6BzRE4SXSIKWEhYXemjK2CMDqHVtyuZEpyvmZmQ7w1ptn",
+              },
             ].map((m) => (
               <div
                 key={m.name}
                 className="bg-cover bg-center flex flex-col gap-3 rounded-lg justify-end p-4 aspect-[3/4] group overflow-hidden"
                 style={{
-                  backgroundImage: `linear-gradient(0deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%), url('${m.url}')`
+                  backgroundImage: `linear-gradient(0deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 100%), url('${m.url}')`,
                 }}
               >
                 <p className="text-white text-lg font-bold leading-tight transform translate-y-full group-hover:translate-y-0 transition-transform duration-300">
@@ -104,25 +106,32 @@ export default function HomePage() {
               {
                 icon: "support_agent",
                 title: "Danışmanlık",
-                desc: "Uzmanlarımız, projenizin estetik ve işlevsel ihtiyaçlarına uygun taşı seçmenize rehberlik eder."
+                desc: "Uzmanlarımız, projenizin estetik ve işlevsel ihtiyaçlarına uygun taşı seçmenize rehberlik eder.",
               },
               {
                 icon: "construction",
                 title: "İmalat",
-                desc: "Seçtiğiniz mermer plakaları, hassas teknoloji ile tam ölçülerinize göre kesip işleriz."
+                desc: "Seçtiğiniz mermer plakaları, hassas teknoloji ile tam ölçülerinize göre kesip işleriz.",
               },
               {
                 icon: "home_work",
                 title: "Montaj",
-                desc: "Profesyonel ekiplerimiz kusursuz montajla mermerin zamansız güzelliğini mekânınıza taşır."
-              }
+                desc: "Profesyonel ekiplerimiz kusursuz montajla mermerin zamansız güzelliğini mekânınıza taşır.",
+              },
             ].map((s) => (
               <div key={s.title} className="flex flex-col items-center gap-4">
                 <div className="flex items-center justify-center size-16 bg-primary/10 rounded-full text-primary">
-                  <span className="material-symbols-outlined" style={{ fontSize: 32 }}>{s.icon}</span>
+                  <span
+                    className="material-symbols-outlined"
+                    style={{ fontSize: 32 }}
+                  >
+                    {s.icon}
+                  </span>
                 </div>
                 <h3 className="text-xl font-bold">{s.title}</h3>
-                <p className="text-text-muted-light dark:text-text-muted-dark text-base leading-relaxed">{s.desc}</p>
+                <p className="text-text-muted-light dark:text-text-muted-dark text-base leading-relaxed">
+                  {s.desc}
+                </p>
               </div>
             ))}
           </div>

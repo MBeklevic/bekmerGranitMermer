@@ -22,6 +22,30 @@ export default function ServicesPage() {
         </div>
       </div>
 
+      {/* Açıklama Bölümü */}
+      <section className="px-6 md:px-10 lg:px-20 py-10">
+        <div className="max-w-6xl mx-auto space-y-4 text-text-muted-light dark:text-text-muted-dark">
+          <p>
+            Mutfak tezgâhları, banyo ve balkon döşemeleri ile ilgili her türlü ihtiyacınıza uygun renk ve kalitede
+            malzemelerimizle evinizi yeniliyoruz.
+          </p>
+          <p>
+            Merdiven ve basamak uygulamalarımızı işinin ehli ustalarımız, en kaliteli malzemelerle en iyi işçiliği
+            birleştirerek sizler için sunmaktadır. Buna ekonomik fiyatlarımız da eklenince müşteri memnuniyeti
+            kaçınılmaz oluyor. Gücünü müşteri memnuniyetinden alan Tuzla Bekmer Granit ve Mermer olarak her zaman
+            en iyiyi sunuyoruz.
+          </p>
+          <p>
+            Granit yer döşeme çeşitlerimizden sizin için en ideal olanı kataloglarımızdan seçiyorsunuz ve gerisini
+            bize bırakıyorsunuz.
+          </p>
+          <p>
+            Mezar işleri; mezar taşlarının yapılması, yazı yazılması ve onarımı ile ilgili de siz değerli
+            müşterilerimize hizmetlerimiz vardır.
+          </p>
+        </div>
+      </section>
+
       <div className="grid grid-cols-[repeat(auto-fit,minmax(250px,1fr))] gap-6 p-4 mt-12 max-w-6xl mx-auto">
         {[
           {

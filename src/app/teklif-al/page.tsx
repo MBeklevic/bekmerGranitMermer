@@ -80,22 +80,22 @@ export default function QuotePage() {
               <div className="space-y-3 text-sm text-gray-600 dark:text-gray-400">
                 <div className="flex items-center gap-3">
                   <span className="material-symbols-outlined text-primary text-xl">phone</span>
-                  <span>(555) 123-4567</span>
+                  <span>Tel: ( 0 216 ) 394 55 44 — Gsm: ( 0 532 ) 716  31 77</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="material-symbols-outlined text-primary text-xl">mail</span>
-                  <span>contact@marbleco.com</span>
+                  <span>info@tuzlagranitmermer.com</span>
                 </div>
                 <div className="flex items-start gap-3">
                   <span className="material-symbols-outlined text-primary text-xl mt-0.5">location_on</span>
-                  <span>123 Mermer Cad.,<br/>Taş Şehri, ST 12345</span>
+                  <span>Orhanlı Mescit Mah. Fettah Başaran Cad. Arda Sk. No: 2/B Tuzla İstanbul</span>
                 </div>
               </div>
             </div>
             <div className="space-y-4">
               <h3 className="text-lg font-bold">Showroom’u Ziyaret Edin</h3>
               <p className="text-sm text-gray-600 dark:text-gray-400">Mermer seçimimizi yerinde deneyimleyin. Uzmanlarımız size rehberlik etmek için hazır.</p>
-              <p className="text-sm font-semibold">Çalışma Saatleri: Pzt - Cum, 9:00 - 17:00</p>
+              <p className="text-sm font-semibold">Çalışma Saatleri: Pzt - Cmts, 9:00 - 18:00</p>
             </div>
           </div>
         </div>

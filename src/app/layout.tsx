@@ -5,8 +5,8 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Bekmer Granit Mermer",
-  description: "Doğal taşın sanatı. Mermer işçiliğinde kalite ve zarafet.",
-  icons: { icon: "/favicon.ico" },
+  description: "1984’ten beri Pendik merkezli Bekmer; İstanbul ve Türkiye genelinde yüzlerce projede birinci sınıf mermer/granit uygulamaları ve %100 memnuniyet sunar.",
+  icons: { icon: "/assets/logo_2.svg" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

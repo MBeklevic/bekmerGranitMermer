@@ -4,9 +4,9 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-lg font-bold mb-4">bekmer</h3>
+            <h3 className="text-lg font-bold mb-4">Bekmer Granit Mermer</h3>
             <p className="text-text-muted-light dark:text-text-muted-dark text-sm leading-relaxed">
-              1982’den beri doğal taşta zarafet. Dünya çapında seçkin müşterilerimiz için en yüksek kaliteyi sunuyoruz.
+              Bekmer Mermer ve Granit, 1984’ten beri Pendik’te başlayan yolculuğunu 1997’de kurumsallaştırarak sürdürmekte; İstanbul ve diğer şehirlerde yüzlerce projeyle birinci sınıf malzeme ve işçilik sunmaktadır. %100 memnuniyet garantimizle hizmetinizdeyiz.
             </p>
           </div>
           <div>
@@ -21,14 +21,14 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-bold mb-4">İletişim</h3>
             <ul className="space-y-2 text-text-muted-light dark:text-text-muted-dark text-sm">
-              <li>123 Mermer Yolu, Taş Şehri, 10101</li>
-              <li>(123) 456-7890</li>
-              <li>contact@marbleco.com</li>
+              <li>Adres: Orhanlı Mescit Mah. Fettah Başaran Cad. Arda Sk. No: 2/B Tuzla İstanbul</li>
+              <li>Tel: ( 0 216 ) 394 55 44 — Gsm: ( 0 532 ) 716  31 77</li>
+              <li>Mail: info@tuzlagranitmermer.com</li>
             </ul>
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-border-light dark:border-border-dark text-center text-text-muted-light dark:text-text-muted-dark text-sm">
-          <p>© 2024 bekmer. Tüm hakları saklıdır.</p>
+          <p>© 2025 Bekmer Granit Mermer. Tüm hakları saklıdır.</p>
         </div>
       </div>
     </footer>
