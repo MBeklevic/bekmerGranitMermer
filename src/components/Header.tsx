@@ -16,7 +16,7 @@ export default function Header() {
             </defs>
           </svg>
         </div>
-        <h2 className="text-xl font-bold tracking-wide">Marble Co.</h2>
+        <h2 className="text-xl font-bold tracking-wide">Bekmer Granit Mermer</h2>
       </div>
       <nav className="hidden md:flex flex-1 justify-end items-center gap-8">
         <Link className="text-sm font-medium hover:text-primary transition-colors" href="/">Anasayfa</Link>

@@ -1,4 +1,4 @@
-export const metadata = { title: "İletişim | Marble Co." };
+export const metadata = { title: "İletişim | Bekmer Granit Mermer" };
 
 export default function ContactPage() {
   return (

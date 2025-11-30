@@ -1,4 +1,4 @@
-export const metadata = { title: "Teklif Al | Marble Co." };
+export const metadata = { title: "Teklif Al | Bekmer Granit Mermer" };
 
 export default function QuotePage() {
   return (

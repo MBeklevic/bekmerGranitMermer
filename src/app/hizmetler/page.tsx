@@ -1,4 +1,4 @@
-export const metadata = { title: "Hizmetler | Marble Co." };
+export const metadata = { title: "Hizmetler | Bekmer Granit Mermer" };
 
 export default function ServicesPage() {
   return (

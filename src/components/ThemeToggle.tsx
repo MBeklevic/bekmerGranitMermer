@@ -28,10 +28,12 @@ export default function ThemeToggle() {
     <button
       type="button"
       aria-label="Tema Değiştir"
-      className="rounded-md h-10 px-3 border border-border-light dark:border-border-dark hover:bg-surface-light/60 dark:hover:bg-surface-dark/60"
+      className="rounded-md h-10 w-10 grid place-items-center border border-border-light dark:border-border-dark hover:bg-surface-light/60 dark:hover:bg-surface-dark/60"
       onClick={() => setIsDark((v) => !v)}
     >
-      {isDark ? "Açık" : "Koyu"}
+      <span className="material-symbols-outlined" aria-hidden="true" style={{ fontSize: 20 }}>
+        {isDark ? "light_mode" : "dark_mode"}
+      </span>
     </button>
   );
 }

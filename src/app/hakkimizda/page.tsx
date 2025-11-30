@@ -1,4 +1,4 @@
-export const metadata = { title: "Hakkımızda | Marble Co." };
+export const metadata = { title: "Hakkımızda | Bekmer Granit Mermer" };
 
 export default function AboutPage() {
   return (
@@ -6,7 +6,7 @@ export default function AboutPage() {
       <div className="max-w-5xl mx-auto">
         <h1 className="font-display text-4xl font-bold tracking-tight lg:text-5xl mb-6">Hakkımızda</h1>
         <p className="text-text-muted-light dark:text-text-muted-dark leading-relaxed mb-10">
-          Marble Co., 1982’den bu yana doğal taşın zarafetini yaşam alanlarına taşıyan bir atölyedir.
+          bekmer, 1982’den bu yana doğal taşın zarafetini yaşam alanlarına taşıyan bir atölyedir.
           Kalite, işçilik ve güvenilirlik ilkeleriyle; konut ve ticari projelerde mermer seçimi, imalatı ve
           montajına kadar sürecin her adımında yanınızdayız.
         </p>

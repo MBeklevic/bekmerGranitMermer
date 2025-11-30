@@ -1,4 +1,4 @@
-export const metadata = { title: "Referanslar | Marble Co." };
+export const metadata = { title: "Referanslar | Bekmer Granit Mermer" };
 
 export default function ReferencesPage() {
   const items = [

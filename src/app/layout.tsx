@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Marble Co. | Mermer Atölyesi",
+  title: "Bekmer Granit Mermer",
   description: "Doğal taşın sanatı. Mermer işçiliğinde kalite ve zarafet.",
   icons: { icon: "/favicon.ico" },
 };

@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-lg font-bold mb-4">Marble Co.</h3>
+            <h3 className="text-lg font-bold mb-4">bekmer</h3>
             <p className="text-text-muted-light dark:text-text-muted-dark text-sm leading-relaxed">
               1982’den beri doğal taşta zarafet. Dünya çapında seçkin müşterilerimiz için en yüksek kaliteyi sunuyoruz.
             </p>
@@ -28,7 +28,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-border-light dark:border-border-dark text-center text-text-muted-light dark:text-text-muted-dark text-sm">
-          <p>© 2024 Marble Co. Tüm hakları saklıdır.</p>
+          <p>© 2024 bekmer. Tüm hakları saklıdır.</p>
         </div>
       </div>
     </footer>
